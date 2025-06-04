@@ -128,6 +128,21 @@
         "id": "1749031191853",
         "name": "Agile Methodologies",
         "rating": 8
+      },
+      {
+        "id": "1749031209809",
+        "name": "Responsive Design",
+        "rating": 8
+      },
+      {
+        "id": "1749031250876",
+        "name": "Performance Optimization",
+        "rating": 8
+      },
+      {
+        "id": "1749031260063",
+        "name": "Cross-Platform UI Development",
+        "rating": 8
       }
     ],
     "skillAnimationType": "still-animation"
