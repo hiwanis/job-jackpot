@@ -142,8 +142,8 @@
         "headline2": "Gained expertise in ReactJS and React Native, improving website performance and mobile app functionality, while adapting to new tools and meeting tight deadlines.",
         "designation": "Software Engineer",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Giftcards.com",
+          "linkUrl": "https://www.giftcards.com/"
         },
         "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML, Redux",
         "companyName": "Blackhawk Network",
@@ -156,8 +156,8 @@
         "headline2": "Implemented usage of fragments and lazy loading of images for speedy app rendering. Introduced usage of advanced debugging and diagnosing tools and extensions like Reactotron, Chrome redux extension.",
         "designation": "System Engineer",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "TSC",
+          "linkUrl": "https://www.tractorsupply.com/"
         },
         "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL, Redux, Saga",
         "companyName": "Infosys Limited",
