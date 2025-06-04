@@ -128,11 +128,16 @@
       {
         "id": "1742316842496",
         "text": "Badminton Inter State University Champion",
-        "type": "other"
+        "type": "award"
       },
       {
         "id": "1749030253054",
         "text": "JavaScript Basics for Beginners",
+        "type": "certificate"
+      },
+      {
+        "id": "1749030385545",
+        "text": "JavaScript Data Structures & Algorithms + LEETCODE Exercises",
         "type": "certificate"
       }
     ]
