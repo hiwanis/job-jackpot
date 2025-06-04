@@ -22,8 +22,13 @@
     "description": "Frontend developer with 3 years of experience building scalable web and mobile applications using ReactJS, React Native, and JavaScript. Passionate about performance optimization, clean and responsive UIs, and working collaboratively in agile teams."
   },
   "skillsInfo": {
-    "displayName": "Specialization",
+    "displayName": "",
     "skills": [
+      {
+        "id": "1740395644199",
+        "name": "JavaScript",
+        "rating": 8
+      },
       {
         "id": "1740395651799",
         "name": "React Native",
@@ -35,18 +40,13 @@
         "rating": 5
       },
       {
-        "id": "1740395644199",
-        "name": "JavaScript",
-        "rating": 8
-      },
-      {
         "id": "1740395667382",
         "name": "Redux",
         "rating": 8
       },
       {
         "id": "1740395676065",
-        "name": "CSS",
+        "name": "CSS3",
         "rating": 8.5
       },
       {
@@ -56,12 +56,17 @@
       },
       {
         "id": "1740395695702",
-        "name": "HTML",
+        "name": "HTML5",
         "rating": 7.5
       },
       {
         "id": "1740395714800",
         "name": "Bootstrap",
+        "rating": 8
+      },
+      {
+        "id": "1749029846771",
+        "name": "Redux-Saga",
         "rating": 8
       },
       {
