@@ -22,7 +22,7 @@
     "description": "Frontend developer with 3 years of experience building scalable web and mobile applications using ReactJS, React Native, and JavaScript. Passionate about performance optimization, clean and responsive UIs, and working collaboratively in agile teams."
   },
   "skillsInfo": {
-    "displayName": "",
+    "displayName": "Skills",
     "skills": [
       {
         "id": "1740395644199",
@@ -117,6 +117,16 @@
       {
         "id": "1742461749200",
         "name": "Jira",
+        "rating": 8
+      },
+      {
+        "id": "1749031181987",
+        "name": "Postman",
+        "rating": 8
+      },
+      {
+        "id": "1749031191853",
+        "name": "Agile Methodologies",
         "rating": 8
       }
     ],
