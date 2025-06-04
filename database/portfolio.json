@@ -118,7 +118,7 @@
     "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
-    "displayName": "Achievements",
+    "displayName": "Certificate",
     "listOfAchievements": [
       {
         "id": "1742316933744",
@@ -128,6 +128,11 @@
       {
         "id": "1742316842496",
         "text": "Achieved 1st place in the district-level badminton tournament",
+        "type": "certificate"
+      },
+      {
+        "id": "1749030253054",
+        "text": "JavaScript Basics for Beginners,",
         "type": "certificate"
       }
     ]
