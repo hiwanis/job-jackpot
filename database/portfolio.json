@@ -45,9 +45,9 @@
         "rating": 8
       },
       {
-        "id": "1749029846771",
-        "name": "Redux-Saga",
-        "rating": 8
+        "id": "1740395695702",
+        "name": "HTML5",
+        "rating": 7.5
       },
       {
         "id": "1740395676065",
@@ -55,14 +55,14 @@
         "rating": 8.5
       },
       {
-        "id": "1740395695702",
-        "name": "HTML5",
-        "rating": 7.5
-      },
-      {
         "id": "1740395685031",
         "name": "SASS/SCSS",
         "rating": 7.5
+      },
+      {
+        "id": "1749029846771",
+        "name": "Redux-Saga",
+        "rating": 8
       },
       {
         "id": "1749029904865",
@@ -70,13 +70,13 @@
         "rating": 8
       },
       {
-        "id": "1749031003085",
-        "name": "Data Structures and Algorithm",
+        "id": "1740395714800",
+        "name": "Bootstrap",
         "rating": 8
       },
       {
-        "id": "1740395714800",
-        "name": "Bootstrap",
+        "id": "1749029945270",
+        "name": "Data Structure and Algorithm",
         "rating": 8
       },
       {
